@@ -96,7 +96,7 @@ function exibirMochila(MochilaCarol){
         console.log(i)
     }
 }
-
+exibirMochila(MochilaCarol);
 console.log(`STATUS DA MOCHILA NO FINAL DO PRIMEIRO DIA: ${MochilaCarol.Dinheiro} em dinheiro! e ${MochilaCarol.Material} Material escolar. `)
 
 
